@@ -1,0 +1,62 @@
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\bin\Debug\net6.0\appsettings.json
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\bin\Debug\net6.0\CustomHelperMethods.staticwebassets.runtime.json
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\bin\Debug\net6.0\CustomHelperMethods.exe
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\bin\Debug\net6.0\CustomHelperMethods.deps.json
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\bin\Debug\net6.0\CustomHelperMethods.runtimeconfig.json
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\bin\Debug\net6.0\CustomHelperMethods.dll
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\bin\Debug\net6.0\CustomHelperMethods.pdb
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\CustomHelperMethods.csproj.AssemblyReference.cache
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\CustomHelperMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\CustomHelperMethods.AssemblyInfoInputs.cache
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\CustomHelperMethods.AssemblyInfo.cs
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\CustomHelperMethods.csproj.CoreCompileInputs.cache
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\CustomHelperMethods.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\CustomHelperMethods.RazorAssemblyInfo.cache
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\CustomHelperMethods.RazorAssemblyInfo.cs
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\staticwebassets\msbuild.CustomHelperMethods.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\staticwebassets\msbuild.build.CustomHelperMethods.props
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CustomHelperMethods.props
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CustomHelperMethods.props
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\scopedcss\bundle\CustomHelperMethods.styles.css
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\scopedcss\projectbundle\CustomHelperMethods.bundle.scp.css
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\CustomHelperMethods.dll
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\refint\CustomHelperMethods.dll
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\CustomHelperMethods.pdb
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\CustomHelperMethods.genruntimeconfig.cache
+C:\Users\KIIT\Desktop\MySQL Exercise\Assisted_Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\ref\CustomHelperMethods.dll
+F:\Sql Server Assited Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\bin\Debug\net6.0\appsettings.Development.json
+F:\Sql Server Assited Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\bin\Debug\net6.0\appsettings.json
+F:\Sql Server Assited Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\bin\Debug\net6.0\CustomHelperMethods.staticwebassets.runtime.json
+F:\Sql Server Assited Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\bin\Debug\net6.0\CustomHelperMethods.exe
+F:\Sql Server Assited Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\bin\Debug\net6.0\CustomHelperMethods.deps.json
+F:\Sql Server Assited Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\bin\Debug\net6.0\CustomHelperMethods.runtimeconfig.json
+F:\Sql Server Assited Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\bin\Debug\net6.0\CustomHelperMethods.dll
+F:\Sql Server Assited Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\bin\Debug\net6.0\CustomHelperMethods.pdb
+F:\Sql Server Assited Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\CustomHelperMethods.csproj.AssemblyReference.cache
+F:\Sql Server Assited Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\CustomHelperMethods.GeneratedMSBuildEditorConfig.editorconfig
+F:\Sql Server Assited Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\CustomHelperMethods.AssemblyInfoInputs.cache
+F:\Sql Server Assited Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\CustomHelperMethods.AssemblyInfo.cs
+F:\Sql Server Assited Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\CustomHelperMethods.csproj.CoreCompileInputs.cache
+F:\Sql Server Assited Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\CustomHelperMethods.MvcApplicationPartsAssemblyInfo.cache
+F:\Sql Server Assited Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\CustomHelperMethods.RazorAssemblyInfo.cache
+F:\Sql Server Assited Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\CustomHelperMethods.RazorAssemblyInfo.cs
+F:\Sql Server Assited Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\staticwebassets\msbuild.CustomHelperMethods.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Sql Server Assited Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\staticwebassets\msbuild.build.CustomHelperMethods.props
+F:\Sql Server Assited Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.CustomHelperMethods.props
+F:\Sql Server Assited Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.CustomHelperMethods.props
+F:\Sql Server Assited Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Sql Server Assited Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\staticwebassets.build.json
+F:\Sql Server Assited Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\staticwebassets.development.json
+F:\Sql Server Assited Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+F:\Sql Server Assited Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\scopedcss\bundle\CustomHelperMethods.styles.css
+F:\Sql Server Assited Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\scopedcss\projectbundle\CustomHelperMethods.bundle.scp.css
+F:\Sql Server Assited Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\CustomHelperMethods.dll
+F:\Sql Server Assited Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\refint\CustomHelperMethods.dll
+F:\Sql Server Assited Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\CustomHelperMethods.pdb
+F:\Sql Server Assited Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\CustomHelperMethods.genruntimeconfig.cache
+F:\Sql Server Assited Projects\CustomHelperMethods\CustomHelperMethods\CustomHelperMethods\obj\Debug\net6.0\ref\CustomHelperMethods.dll
